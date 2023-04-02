@@ -1,2 +1,3 @@
 Trabajo Práctico n° 0
-"Hello world!"
+
+Un programita que muestra en patalla "Holaa funciona esto?"
